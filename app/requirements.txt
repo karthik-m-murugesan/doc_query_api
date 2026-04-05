@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-classic
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+langchain-community
+pypdf
+python-multipart
